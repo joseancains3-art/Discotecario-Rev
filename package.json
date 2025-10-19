@@ -1,0 +1,10 @@
+{
+  "name": "discotecario-acrcloud-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
